@@ -1,5 +1,5 @@
 multiprocess==0.70.9
-mxnet == 1.7.0.post1
+mxnet == 1.9.1
 gluonnlp == 0.10.0
 sentencepiece == 0.1.6
 onnxruntime == 0.3.0
